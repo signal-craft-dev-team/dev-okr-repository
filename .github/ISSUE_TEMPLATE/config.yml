@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: 💬 Slack에서 먼저 논의하기
-    url: https://your-workspace.slack.com/channels/okr-tracking
+    url: https://signalcraft1.slack.com
     about: 아직 정리되지 않은 아이디어는 Slack #okr-tracking 에서 먼저 얘기해주세요
   - name: 📖 OKR 작성 가이드
-    url: https://github.com/signal-craft/okr/blob/main/docs/okr-handbook.md
+    url: https://github.com/signal-craft-dev-team/dev-okr-repository/blob/1dd5bae984a4c46dc3f260dcb88c8afd848ac80a/okr-handbook.md
     about: 처음 OKR을 작성하신다면 가이드를 먼저 읽어주세요
