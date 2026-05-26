@@ -3,11 +3,13 @@ name: Sprint Planning
 about: 비동기 스프린트 플래닝
 title: "Sprint-Planning"
 labels: ["sprint-planning"]
-Date: 2026.00.00 ~ 2026.00.00
 ---
 
 ## 스프린트 목표
 <!-- 한 줄로 -->
+
+## 스프린트 기간
+2026.00.00 ~ 2026.00.00
 
 ---
 
