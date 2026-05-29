@@ -1,7 +1,7 @@
 ---
-name: 🔄 Sprint Retrospective
+name: Sprint Retrospect 작성
 about: 스프린트 회고 작성
-title: "[Retro] Sprint N - "
+title: "[회고] {날짜} {작성자}"
 labels: ["retrospective"]
 ---
 
