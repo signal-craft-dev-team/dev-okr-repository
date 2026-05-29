@@ -1,3 +1,10 @@
+---
+name: 🔄 Sprint Retrospective
+about: 스프린트 회고 작성
+title: "[Retro] Sprint N - "
+labels: ["retrospective"]
+---
+
 ## 스프린트 회고
 
 - **기간**: YYYY-MM-DD ~ YYYY-MM-DD
